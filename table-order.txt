@@ -1,0 +1,48 @@
+
+
+
+
+
+user
+	-login(text)
+	-email(text)
+	-mobyle(text)
+	-pasword(text)
+	-offers-id(integer)
+
+orders
+	-id
+     	-product-order(text)
+
+offers
+	-id
+     	-product-offer(text)
+	-prise(text)(?????)
+	-size(integer)
+
+
+
+
+------------------------------------------------------------
+
+
+
+--tender
+	id
+	name(str)
+	data stre((data))
+	data finish((data))
+	activ(int)           
+	finished(int)
+	state(int)  1  2
+
+--stawka
+	id
+	tender(int)
+	prise(str) _____77777
+
+--istor
+
+	
+
+
